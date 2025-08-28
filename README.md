@@ -1,5 +1,6 @@
 # HomeStayManagementSystem
 
+```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   API Gateway   │    │Service Discovery│    │ Config Server   │
 │   (Port 8080)   │    │   (Port 8761)   │    │   (Port 8888)   │
@@ -14,3 +15,4 @@
 │ Payment Service │    │Notification Svc │    │ Report Service  │
 │   (Port 8084)   │    │   (Port 8085)   │    │   (Port 8086)   │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
+```
